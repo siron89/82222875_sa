@@ -4,6 +4,6 @@ metadata:
     name: cloud-sample
 spec:
     ports:
-    - port: 80 
+    - port: 8080
     selector:
         app: cloud-sample
